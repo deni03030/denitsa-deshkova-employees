@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/denitsa-deshkova-employees/static/css/main.4cfe27f8.css",
+    "main.js": "/denitsa-deshkova-employees/static/js/main.f165c75d.js",
+    "static/js/787.d04ff1fe.chunk.js": "/denitsa-deshkova-employees/static/js/787.d04ff1fe.chunk.js",
+    "index.html": "/denitsa-deshkova-employees/index.html",
+    "main.4cfe27f8.css.map": "/denitsa-deshkova-employees/static/css/main.4cfe27f8.css.map",
+    "main.f165c75d.js.map": "/denitsa-deshkova-employees/static/js/main.f165c75d.js.map",
+    "787.d04ff1fe.chunk.js.map": "/denitsa-deshkova-employees/static/js/787.d04ff1fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cfe27f8.css",
+    "static/js/main.f165c75d.js"
+  ]
+}
